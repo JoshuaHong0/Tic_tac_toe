@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Advanced_TicTacToe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Advanced_TicTacToe_jar</output-path>
+    <root id="archive" name="Advanced_TicTacToe.jar">
+      <element id="module-output" name="Advanced_TicTacToe" />
+    </root>
+  </artifact>
+</component>
